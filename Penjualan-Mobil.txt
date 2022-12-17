@@ -4,3 +4,5 @@ Penjualan Mobil
 - Hyundai
 - Suzuki
 - Mitsubshi
+- Isuzu
+- Lexus
