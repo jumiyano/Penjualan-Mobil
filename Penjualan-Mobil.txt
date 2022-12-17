@@ -1,8 +1,0 @@
-Penjualan Mobil
-- Daihatsu
-- Toyota
-- Hyundai
-- Suzuki
-- BMW
-- Isuzu
-- Lexus
