@@ -3,6 +3,6 @@ Penjualan Mobil
 - Toyota
 - Hyundai
 - Suzuki
-- Mitsubshi
+- BMW
 - Isuzu
 - Lexus
